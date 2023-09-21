@@ -1,3 +1,3 @@
 # Artificial_Intelligence
-Python exercises
+Python exercises_
 Katia Fernanda Godinez Gonzalez 1945000
